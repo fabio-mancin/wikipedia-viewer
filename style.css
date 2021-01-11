@@ -1,0 +1,19 @@
+body {
+  margin-top: 10em;
+  background-color: black;
+  color: white;
+}
+
+#randomEntry {
+  color: white; 
+  border: solid; 
+  padding: 20px; 
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.form-group {
+  margin-top: 5em;
+  width: 50em;
+  margin-left: 15%;
+}
